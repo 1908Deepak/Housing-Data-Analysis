@@ -17,11 +17,9 @@ To provide a single interactive dashboard for housing sales analysis with KPIs, 
 
 ### Steps followed 
 
-SStep 1 – Load Data from Excel workbook
+Step 1 – Load Data from CSV File
 
-- Connected to  SQL Server Database containing housing sales data.
-
-- Used Get Data → SQL Server  →  SQL Database option in Power BI Desktop.
+- Used Get Data → Test/CSV in Power BI Desktop.
 
 
 Step 2: Open Power Query Editor and in the View tab under Data Preview, enabled:
